@@ -70,12 +70,12 @@ All features are computed from digitized images of cell nuclei. For each cell nu
 
 ## c. Github Repository Link
 
-🔗 **Repository URL:** [https://github.com/YOUR_USERNAME/ML-Assignment-2](https://github.com/YOUR_USERNAME/ML-Assignment-2)
+🔗 **Repository URL:** [https://github.com/shushanth0927/Breast_cancer_predication]
 
 ### Repository Structure
 ```
-ML-Assignment-2/
-│                      
+/
+Breast_cancer_predication                      
 │
 ├── data/
 │   └── test_data.csv
@@ -182,8 +182,8 @@ The interactive web application includes:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ML-Assignment-2.git
-   cd ML-Assignment-2
+   git clone https://github.com/shushanth0927/Breast_cancer_predication
+   cd Breast_cancer_predication
    ```
 
 2. **Install dependencies**
@@ -209,14 +209,8 @@ The interactive web application includes:
 ## Deployment
 
 ### Live Application
-🌐 **Streamlit App URL:** [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)
+🌐 **Streamlit App URL:** [https://breastcancerpredication-4tvv7egxct2mmp3havrappz.streamlit.app/]
 
-### Deployment Steps (Streamlit Community Cloud)
-1. Push code to GitHub repository
-2. Sign in to [Streamlit Community Cloud](https://streamlit.io/cloud)
-3. Click "New app"
-4. Select your repository, branch, and `app.py`
-5. Click "Deploy"
 
 ---
 
